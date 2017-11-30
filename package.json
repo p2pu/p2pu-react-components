@@ -2,7 +2,7 @@
   "name": "p2pu-react-components",
   "version": "0.0.0",
   "description": "React components used by P2PU apps",
-  "main": "index.js",
+  "main": "build/index.js",
   "directories": {
     "lib": "lib"
   },
