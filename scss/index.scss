@@ -1,0 +1,21 @@
+section.page-title {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+
+  header {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    text-transform: uppercase;
+    text-align: center;
+
+    h1 {
+      font-size: 3.4em;
+    }
+  }
+
+}
+
