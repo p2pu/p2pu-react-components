@@ -1,4 +1,4 @@
 # Shared React components for P2PU
 
-elements - atoms
-components - molecules
+- lib/elements - atoms
+- lib/components - molecules
